@@ -72,7 +72,6 @@ export const PostList = ({ posts, AddPost }: Props) => {
 											);
 										}}
 										onRemove={() => {
-											console.log({ post });
 											dispatch(
 												removePost({ id: post.id })
 											);
