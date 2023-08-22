@@ -23,22 +23,6 @@ const routesList: RouteObject[] = [
 				index: true,
 				element: <Home />,
 			},
-			// {
-			// 	path: 'me',
-			// 	element: <Me />,
-			// },
-			// {
-			// 	path: 'favourites',
-			// 	element: <Favourites />,
-			// },
-			// {
-			// 	path: 'search',
-			// 	element: <Search />,
-			// },
-			// {
-			// 	path: ':city',
-			// 	element: <WeatherDetails />,
-			// },
 		],
 	},
 ];
